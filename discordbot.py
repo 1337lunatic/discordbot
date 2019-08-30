@@ -81,4 +81,4 @@ async def reload(ctx, extension):
 	await ctx.send(f'{extension.capitalize()} reloaded!') 
 
 
-client.run('NjAzMjY3NDEzOTkwOTY1MjQ4.XTc-EQ.BGIOtxIHSkEPmdbsntS8tjfF4EU')
+client.run('key')
